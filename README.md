@@ -7,7 +7,8 @@ This project provides a **clean and structured way** to handle authentication in
 ✔️ **AuthController** for centralized form management  
 ✔️ Modular & easy-to-use **CustomTextFormField** widget  
 ✔️ Supports **email, phone, username, and password** fields  
-✔️ Follows **clean architecture principles** for better scalability  
+✔️ Follows **clean architecture principles** for better scalability
+✔️ SOLID-compliant: Follows clean architecture and SOLID principles for better maintainability.
 
 ## 🔍 How It Works  
 - Each field type is represented by a **FieldType enum**.  
